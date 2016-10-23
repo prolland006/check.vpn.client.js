@@ -16,6 +16,7 @@ Setup
 - cordova run android --list
 - cordova run android --device
 - ionic serve
+
 Documentation
 -------
 http://ionicframework.com/docs/v2/

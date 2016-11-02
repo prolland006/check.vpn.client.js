@@ -16,6 +16,7 @@ Setup
 - cordova run android --list
 - cordova run android --device
 - ionic serve
+- cordova plugin add https://github.com/katzer/cordova-plugin-background-mode.git
 
 Documentation
 -------
